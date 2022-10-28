@@ -1,4 +1,5 @@
+This template contains a notebook that illustrates how to calculate the great circle distance between two geographical locations given through latitude and longitude coordinates, as well as:
+* Identifying the closest location (from a set of target locations) for each source location
+* Identifying all target locations within a certain threshold from the source location
 
-In the ./requirements.txt one should specify the dependencies between templates.
-
-in the ./metadata.json one should specify only the external libraries in the `"dependencies": []` properties.
+This type of calculation is useful for analyzing footprint and competition. 
