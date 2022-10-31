@@ -10,5 +10,6 @@
 
     "description": "Calculation of distances between geographic locations (defined by longitude and latitude). Useful for identifying nearby competitor stores and branches.",
     "author": "Daniel Wang",
-    "author_email": "daniel.wang@oliverwyman.com"
+    "author_email": "daniel.wang@oliverwyman.com",
+    "read_more_link": "https://github.com/ow-gryphon/gryphon-great-circle-distance"
 }
